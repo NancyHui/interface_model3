@@ -1,4 +1,4 @@
-# zhtyInterfaceTestPublic
+# InterfaceTest
 
 #### 项目介绍
 接口测试框架
